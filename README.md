@@ -1,10 +1,10 @@
 
 # # 😸 About the project Instaloader
 
-Python script that uses the instaloader library. In order to do research on instagram user profiles
+Python script that uses the instaloader library. In order to do research on instagram user profiles.
 
 ## Run and clone this project
-- [x] Access Sandbox Code or your IDE and run it in your terminal
+- [x] Access your IDE and run it in your terminal.
 ```
 sudo python3 main.py
 ``` 
