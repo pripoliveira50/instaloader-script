@@ -1,8 +1,3 @@
-Claro! Aqui está a versão melhorada e padronizada do seu **README** do projeto `instaloader-script`, totalmente em inglês e no mesmo estilo dos anteriores:
-
----
-
-```markdown
 # 📸 Instaloader Script
 
 <p align="center">A simple Python script that leverages the Instaloader library to fetch data from Instagram user profiles.</p>
