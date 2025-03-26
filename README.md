@@ -83,4 +83,4 @@ This project is open-source and available under the MIT License.
 
 ---
 
-🚀 Made with ❤️ by Priscila Oliveira
+🚀 Made with ❤️ by [Priscila Oliveira](https://github.com/pripoliveira50/)
